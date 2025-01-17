@@ -21,9 +21,9 @@ console.log( false == '0' );           // true
 console.log( null == undefined );      // true
 console.log( " \t\r\n" == 0 );         // true
 console.log( ' ' == 0 );               // true
+```
 
-
-##Tarea del Día
+## Tarea del Día
 Tu tarea de hoy es reescribir el código a continuación para que imprima la información de manera correcta, que tenga sentido y sin errores:
 
 
@@ -52,8 +52,8 @@ if (/* COMPARAR numeroDiez y stringDiez */) {
 } else {
   console.log('Las variables numeroDiez y stringDiez no tienen el mismo valor');
 }
+```
 
-
-##Requisitos
-Usa el operador de comparación adecuado para que las condiciones se validen correctamente.
-Asegúrate de que el código refleje las comparaciones correctas entre los tipos de datos.
+## Requisitos
+* Usa el operador de comparación adecuado para que las condiciones se validen correctamente.
+* Asegúrate de que el código refleje las comparaciones correctas entre los tipos de datos.
