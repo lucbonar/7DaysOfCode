@@ -10,7 +10,6 @@ var mostrarLista = ``
 let numElementosLista = "";
 
 
-alert("buenas")
 
 while(true) {
     eleccion = prompt(`Desea modificar su lista:\n 1: Agregar alimentos\n 2: Desea Eliminar algun alimento\n 3: No hacer cambios`);
